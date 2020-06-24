@@ -1,0 +1,6 @@
+test_accuracy;0.9891304347826086
+test_loss;0.06614768956114529
+test_auc;0.9888830347734457
+epochs;200
+observation_in_training;709
+observation_in_test;276
